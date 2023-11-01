@@ -7,12 +7,19 @@ const CONFIG = {
   NOTICE_BAR: [],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'TANGLY1024.COM',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  //HERO_TITLE_1: '分享编程',
+  //HERO_TITLE_2: '与思维认知',
+  //HERO_TITLE_3: 'TANGLY1024.COM',
+  //HERO_TITLE_4: '新版上线',
+  //HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  //HERO_TITLE_LINK: 'https://tangly1024.com',
+
+  HERO_TITLE_1: '',
+  HERO_TITLE_2: '',
+  HERO_TITLE_3: '',
+  HERO_TITLE_4: '',
+  HERO_TITLE_5: '',
+  HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
