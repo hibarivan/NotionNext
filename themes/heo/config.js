@@ -7,30 +7,20 @@ const CONFIG = {
   NOTICE_BAR: [],
 
   // 英雄区(首页顶部大卡)
-  //HERO_TITLE_1: '分享编程',
-  //HERO_TITLE_2: '与思维认知',
-  //HERO_TITLE_3: 'TANGLY1024.COM',
-  //HERO_TITLE_4: '新版上线',
-  //HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  //HERO_TITLE_LINK: 'https://tangly1024.com',
-
-  HERO_TITLE_1: '',
-  HERO_TITLE_2: '',
-  HERO_TITLE_3: '',
+  HERO_TITLE_1: '疾风再起',
+  HERO_TITLE_2: '奔跑不息',
+  HERO_TITLE_3: 'HIBARIVAN.TOP',
   HERO_TITLE_4: '',
   HERO_TITLE_5: '',
-  HERO_TITLE_LINK: '',
+  HERO_TITLE_LINK: 'https://hibarivan.top',
 
   // 英雄区显示三个置顶分类
-  //HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  //HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  //HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
-  HERO_CATEGORY_1: { title: '', url: '' },
-  HERO_CATEGORY_2: { title: '', url: '' },
-  HERO_CATEGORY_3: { title: '', url: '' },
+  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
+  HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
+  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HERO_RECOMMEND_POST_TAG: '',
+  HERO_RECOMMEND_POST_TAG: '推荐',
   HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
